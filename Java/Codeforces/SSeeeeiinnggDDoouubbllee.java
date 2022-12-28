@@ -11,7 +11,6 @@ public class SSeeeeiinnggDDoouubbllee {
                 reverseString = s.charAt(i) + reverseString;
             }
             System.out.println(s + reverseString);
-
         }
     }
 }
